@@ -8,11 +8,14 @@
 
     <body>
 
-        <label for="DF4">
-             <input type="radio" id="DF1" name="DF" value="1">Option 1<br>
-             <input type="radio" id="DF2" name="DF" value="2">Option 2<br>
-             <input type="radio" id="DF3" name="DF" value="3">Other, please specify
-        </label>
+        <input type="radio" id="DF1" name="DF" value="1">
+        <label for="DF1">Option 1</label><br>
+
+        <input type="radio" id="DF2" name="DF" value="2">
+        <label for="DF2">Option 2</label><br>
+
+        <input type="radio" id="DF3" name="DF" value="3">
+        <label for="DF3">Other, please specify</label><br>
 
         <div>
             <div>
